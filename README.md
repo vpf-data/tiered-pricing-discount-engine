@@ -74,7 +74,8 @@ The same logic rebuilt with spreadsheet formulas:
 - `IF(DiscountPercent>20, "Needs Approval", "Auto-Approved")` for the approval flag
 - An **XLOOKUP** equivalent built separately in Excel Online (XLOOKUP isn't available in Excel 2019)
 
-📁 Workbook: [`/excel/CPQ_Pricing_Project.xlsx`](excel/CPQ_Pricing_Project.xlsx)
+📁 Workbooks: [`/excel/CPQ_Pricing_Project.xlsx`](excel/CPQ_Pricing_Project.xlsx)
+              [`/excel/cpq_project_xlookup.xlsx`](excel/cpq_project_xlookup.xlsx)
 
 **Screenshots:**
 
